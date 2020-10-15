@@ -9,7 +9,7 @@ The assignment goals are to:
 2. Identify certain 'special peaks' in a signal based on specific criteria. More details about the exact assignment can be found in the 'Assignment Description' pdf.
 
 # PDF FILE DISPLAYS RESULTS
-A PDF file can also be found that displays the results of the code (figures at the end.)  
+A PDF file called 'Special_Peaks.pdf' can also be found that displays the results of the code (figures at the end.)  
 
 # OTHER FILES
 The signal is provided as a text file Signal.txt, and an 'expected mean value' of the signal is given as 0.6833
