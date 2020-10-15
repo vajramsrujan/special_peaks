@@ -8,9 +8,10 @@ The assignment goals are to:
 1. Remove signal drift 
 2. Identify certain 'special peaks' in a signal based on specific criteria. More details about the exact assignment can be found in the 'Special Peak' pdf.
 
-# FILES
-The signal is provided as a text file Signal.txt, and an 'expected mean value' of the signal is given as 0.6833
-The MATLAB code can be found in the .m file. 
+# PDF FILE DISPLAYS RESULTS
+An PDF file can also be found that displays the results of the code. 
 
-# INTERACTIVE HTML
-An interactive html file can also be found that displays the results of the code. 
+# OTHER FILES
+The signal is provided as a text file Signal.txt, and an 'expected mean value' of the signal is given as 0.6833
+The source MATLAB code can be found in the .m file. 
+
