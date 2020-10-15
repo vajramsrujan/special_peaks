@@ -7,3 +7,5 @@ This was a signal processing task I was asked to complete as part of an intense 
 The assignment goals are to:  
 1. Remove signal drift 
 2. Identify certain 'special peaks' in a signal based on specific criteria. More details about the exact assignment can be found in the 'Special Peak' pdf.
+
+The signal is provided as a text file Signal.txt, and an 'expected mean value' of the signal is given as 0.6833
