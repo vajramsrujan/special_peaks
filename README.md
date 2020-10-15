@@ -6,7 +6,7 @@ This was a signal processing task I was asked to complete as part of an intense 
 
 The assignment goals are to:  
 1. Remove signal drift 
-2. Identify certain 'special peaks' in a signal based on specific criteria. More details about the exact assignment can be found in the 'Special Peak' pdf.
+2. Identify certain 'special peaks' in a signal based on specific criteria. More details about the exact assignment can be found in the 'Assignment Description' pdf.
 
 # PDF FILE DISPLAYS RESULTS
 An PDF file can also be found that displays the results of the code. 
