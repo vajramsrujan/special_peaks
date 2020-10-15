@@ -13,4 +13,4 @@ The signal is provided as a text file Signal.txt, and an 'expected mean value' o
 The MATLAB code can be found in the .m file. 
 
 # INTERACTIVE HTML
-An interactive html file can be found that displays the results of the code. 
+An interactive html file can also be found that displays the results of the code. 
